@@ -1,0 +1,37 @@
+Kiwwito's Tuenti API - Non official Tuenti API
+
+AUTHOR
+------
+Keyvan Akbary <keyvan@kiwwito.com>
+
+OFFICIAL KIWWITO'S TUENTI API DEDICATED SITE
+--------------------------------------------
+* English version of the project
+  http://www.kiwwito.com/project/tuenti-api
+* Spanish version of the project
+  http://www.kiwwito.com/proyecto/tuenti-api
+
+REQUIREMENTS
+------------
+* PHP cURL library installed
+* PHP version >= 5.3
+* Tuenti account with mobile mode activated
+
+DOCUMENTATION
+-------------
+All the files are self-documented, there's a special folder with a HTML
+compiled version of this: "Doc" folder contains an index of all clases and
+files wich compound the Kiwwito's Tuenti API project.
+
+Also you can find more information in the OFFICIAL KIWWITO'S TUENTI API
+DEDICATED SITE.
+
+In the "Doc" folder also you will find the structure diagram of the most
+important clases in the project with all the methods defined (very useful).
+
+EXAMPLES
+--------
+Examples are located into the "Examples" folder. Is recomendable to execute
+them through the command line.
+
+php test_all.php
